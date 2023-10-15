@@ -2,7 +2,7 @@
 
 ## Description
 
-The aim of this project is to deploy a time series model.From training, my model of choice is the Linear Regression Model
+The aim of this project is to deploy a time series model.From training, my model of choice is the XGBoost Model
 
 Accurate sales forecasting is essential for maximising inventory, resource allocation, and decision-making processes in the dynamic world of retail. In this project, we delve into the realm of time series forecasting for store sales, aiming to provide a robust predictive model for Favorita, a leading Ecuadorian-based grocery retailer.
 
