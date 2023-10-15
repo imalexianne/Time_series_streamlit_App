@@ -1,0 +1,5 @@
+streamlit
+xgboost
+seaborn
+pandas
+numpy
